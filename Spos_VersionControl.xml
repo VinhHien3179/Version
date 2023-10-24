@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.1.0.0</version>
+    <version>1.0.0.0</version>
     <url>https://download1325.mediafire.com/3lb5xmhbnxmgdcVHsBL4yJNTZV4ByUfQq38HmNNGhQEyrxlRt6KfPlcRMW0443XJUkUL8kGGWF4yomXrlqKM9etpF-zcCz2rsl4JHeChAhdiLj9tN9-hW3FFcml34wJ7ZS7_S9wEijyKf3SwCBM-BLP_aJbnBvAFIQgAyMQ5-Hc/208qk6sngd9svfy/Interface.v1.0.0.0.zip</url>
     <changelog>https://localhost:44340</changelog>
     <mandatory minVersion="1.0.0.0">true</mandatory>
