@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<item>
-    <version>1.0.1.1</version>
-    <url>https://pos.dudusalon.com/interface/version/Debug1.0.1.1.zip</url>
-    <changelog>https://github.com/VinhHien3179/Version/releases</changelog>
-    <mandatory minVersion="1.0.0.0">true</mandatory>
-</item>
