@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.5.3</version>
-    <url>https://github.com/user-attachments/files/16518257/Debug1.0.5.3.zip</url>
+    <version>1.0.5.4</version>
+    <url>https://github.com/user-attachments/files/17068741/Debug1.0.5.4.zip</url>
     <changelog>https://github.com/VinhHien3179/Version/releases</changelog>
-    <mandatory minVersion="1.0.5.3">false</mandatory>
+    <mandatory minVersion="1.0.5.4">true</mandatory>
 </item>
